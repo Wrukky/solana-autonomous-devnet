@@ -130,6 +130,7 @@ solana-autonomous-devnet/
 ├── package.json
 ├── tsconfig.json
 ├── README.md
+├── SKILLS.md
 ├── .gitignore        ← excludes wallets, node_modules, dist
 └── node_modules/
 Security Notes
